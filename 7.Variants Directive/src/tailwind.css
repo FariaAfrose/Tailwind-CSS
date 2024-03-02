@@ -1,9 +1,0 @@
-/* @tailwind base;
-@tailwind components;
-@tailwind utilities; */
-/* telwind will undestand that it have to make a variants class for  rotate-0 custom class */
-@variants hover {
-  .rotate-0 {
-    transform: rotate(0deg);
-  }
-}
