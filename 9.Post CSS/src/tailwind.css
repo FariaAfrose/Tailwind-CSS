@@ -1,0 +1,10 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+.text-body {
+  font-size: 2rem;
+}
+input::placeholder {
+  color: gray;
+}
